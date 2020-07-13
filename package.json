@@ -1,0 +1,20 @@
+{
+  "name": "vue-weblineindia-qr-scanner",
+  "version": "1.0.0",
+  "description": "> A set of Vue.js components, allowing you to detect and decode QR codes, without leaving the browser.",
+  "main": "dist/vue-qrcode-reader.common.js",
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-Image-Crop-Upload",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-qr-scanner",
+    "vue-component",
+    "qrcode",
+    "qrcode-reader",
+    "qrcode-scanner",
+    "vue",
+    "vuejs",
+    "webrtc"
+  ]
+}
