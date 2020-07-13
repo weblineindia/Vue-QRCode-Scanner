@@ -5,8 +5,8 @@
   "main": "dist/vue-qrcode-reader.common.js",
   "author": "weblineindia",
   "license": "MLT",
-  "repository": "https://github.com/weblineindia/Vue-Image-Crop-Upload",
-  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "repository": "https://github.com/weblineindia/Vue-QRCode-Scanner.git",
+  "homepage": "https://www.weblineindia.com/resources/vuejs-components-library.html",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
