@@ -7,6 +7,9 @@
   "license": "MLT",
   "repository": "https://github.com/weblineindia/Vue-Image-Crop-Upload",
   "homepage": "https://www.weblineindia.com/software-development-resources.html",
+   "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "keywords": [
     "vue-weblineindia-qr-scanner",
     "vue-component",
