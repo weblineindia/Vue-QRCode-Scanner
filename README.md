@@ -22,7 +22,7 @@ A Vue.js based QR Code scanner component, allowing you to detect and decode QR c
 This component fundamentally depends on the [Stream API](https://caniuse.com/#feat=stream).
 
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |
---- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- |
 83.0 ✔ | 77.0  ✔ | 13.1.1 ✔ | 83.0 ✔ | Not verified |
 
 1. Chrome requires [HTTPS or localhost](https://sites.google.com/a/chromium.org/dev/Home/chromium-security/deprecating-powerful-features-on-insecure-origins) (see _Troubleshooting_ for help)
@@ -36,7 +36,7 @@ This component fundamentally depends on the [Stream API](https://caniuse.com/#fe
 The newest API these components depend on is the [FileReader API](https://caniuse.com/#feat=filereader).
 
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |
---- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- |
 83.0 ✔ | 77.0  ✔ | 13.1.1 ✔ | 83.0 ✔ | 10+ |
 
 ## Getting started
