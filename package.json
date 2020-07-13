@@ -1,5 +1,5 @@
 {
-  "name": "vue-weblineindia-qr-scanner",
+  "name": "@weblineindia/vue-weblineindia-qr-scanner",
   "version": "1.0.1",
   "description": "> A set of Vue.js components, allowing you to detect and decode QR codes, without leaving the browser.",
   "main": "dist/vue-qrcode-reader.common.js",
